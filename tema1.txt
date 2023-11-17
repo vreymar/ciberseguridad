@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 El tema 1 se ha obtenido de https://git-scm.com/ y también de google
+=======
+El tema 1 se ha obtenido de https://git-scm.com/ y también de wikipedia
+>>>>>>> tema1
